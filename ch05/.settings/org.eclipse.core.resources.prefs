@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//blog/admin.py=utf-8
+encoding//blog/models.py=utf-8
+encoding//blog/views.py=utf-8
+encoding//bookmark/admin.py=utf-8
+encoding//bookmark/apps.py=utf-8
+encoding//bookmark/models.py=utf-8
+encoding//bookmark/models.py.org=utf-8
+encoding//bookmark/tests.py=utf-8
+encoding//bookmark/views.py=utf-8
+encoding//mysite/settings.py=utf-8
